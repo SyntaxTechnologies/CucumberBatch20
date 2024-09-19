@@ -1,0 +1,17 @@
+added
+selenium
+cucumber
+to write scenario we will create feature file
+
+given - pre condition
+when - perform action
+then - expected result
+
+rules for step def -
+
+we cannot create multiple step defs of one step
+once the step has been defined, we cannot change the step.
+
+runner class -
+
+
